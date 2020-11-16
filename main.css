@@ -1,7 +1,7 @@
 body{
     color: violet;
+    background-color: darkblue;
     font-family: 'Turret Road', cursive;
-    background-image: url(img/2019-09-25-choosing-a-website-background.png);
 }
 topnav a:active{
     background-color: black;
